@@ -20,6 +20,8 @@ práctica 4)
 - tecla Q o ESC: terminar el programa.
 - teclas de cursor: rotaciones de la cámara entorno al origen.
 - teclas +/-, av.pág/re.pág.: aumentar/disminuir la distancia de la camara al origen (zoom).
+- teclas A y + (a la vez) : activa animaciones.
+- teclas A y - (a la vez) : desactiva animaciones.
 
 ## Compilación y ejecución
 
