@@ -15,7 +15,7 @@ Para navegar en el entorno, utilizaremos el botón derecho del ratón, ya que el
 - **Tecla F**: activa o desactiva el modo de sombreado plano.
 - **Tecla S**: cambia el cauce gráfico actual (cauce programable o cauce fijo).
 - **Tecla I**: activa o desactiva la iluminación (no tiene efecto hasta la
-práctica 4)
+práctica 4).
 - **Tecla E**: activa o desactiva el dibujado de los ejes de coordenadas.
 - **Tecla Q o ESC**: termina el programa.
 - **Teclas de cursor**: aplica rotaciones de la cámara entorno al origen.
